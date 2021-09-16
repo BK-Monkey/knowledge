@@ -10,6 +10,8 @@ this is a blog for Personal knowledge record
 
 ## [JAVA-springboot](springboot.md)
 
+## [领域模型](domainmodel.md)
+
 ## [mysql](mysql.md)
 
 ## [redis](redis.md)
