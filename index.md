@@ -1,6 +1,9 @@
 # Personal knowledge record
 this is a blog for Personal knowledge record
 
+## [JAVA-基础](basics.md)
+
+
 ## [JAVA-垃圾回收](garbage.md)
 
 ## [JAVA-高并发多线程](multithreading.md)
