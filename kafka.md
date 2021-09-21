@@ -1,4 +1,5 @@
 # KAFKA 常用命令
+参考：https://blog.csdn.net/weixin_60707895/article/details/120145570
 ## 启动
 ```
 bin/zookeeper-server-start.sh -daemon config/zookeeper.properties 
