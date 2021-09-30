@@ -22,3 +22,34 @@ volatile 前后增加了写屏障，在其后面加了读屏障
 
 ## 线程池拒绝策略
 四种，待补充
+
+
+## 线程，纤程（用户级别的线程）
+
+## syncronized 锁的升级过程
+普通对象（无锁态），偏向锁(百分之七八十的时间都是一个线程在使用) ，轻量级锁（有竞争力，撤销偏向锁，省级为自旋锁），重量级锁（重度竞争，升级为重量级锁，放入队列，自旋锁10次，或者竞争数量超过CPU 核数1/2,AQS）
+
+## 启动偏向锁为什么延迟4s
+
+## 自旋锁一定比重量级锁效率高么？不一定,当某个线程持续拥有锁时，其他线程会耗CPU。
+
+## CAS 乐观锁，通过版本号解决ABA 问题
+
+## 如何保证CAS 原子性？汇编层支持LOCK_IF_MP  lock_cmpxchg原语支持，锁总线。
+
+## new 一个对象由几部分构成（JOL）？ 由四部分构成，markword,class ponitor,instance data,padding。
+
+## markword 中存储的是啥？锁信息，GC 信息，hashcode。
+
+## synchronized 是可重入锁
+ CAS  用户态，内核态
+0X80 问题
+
+## 启动线程池的三种方式  1. thread 2. runnable 3. 线程池Executors.newCache 4. lamada 表达式
+
+## 线程的状态， https://www.bilibili.com/video/BV1Ph411v71Y?p=18&spm_id_from=pageDriver
+
+## 异常跟锁，出现异常，释放锁
+
+加锁： synchronized  volatile  atomic  increment  longAdder
+新类型锁：  reentrantLock  CountDoenLatch   CyclicBarrier Pahser ReadWriteLock Semaphore Exchaner 
