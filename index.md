@@ -34,8 +34,6 @@ this is a blog for Personal knowledge record
 
 ## [prometheus](prometheus.md)
 
-## [prometheus](prometheus.md)
-
 ## [golang](golang.md)
 
 ## [nginx/openresty](nginx.md)
