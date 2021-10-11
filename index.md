@@ -47,3 +47,5 @@ this is a blog for Personal knowledge record
 ## [route](route.md)
 
 ## [ssr](ssr.md)
+
+## [ssr](springcloud.md)
