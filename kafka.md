@@ -1,6 +1,5 @@
 # KAFKA 常用命令
-参考：https://blog.csdn.net/weixin_60707895/article/details/120145570
-https://www.cnblogs.com/x-x-736880382/p/11511221.html
+
 ## 启动
 ```
 bin/zookeeper-server-start.sh -daemon config/zookeeper.properties 
@@ -50,7 +49,12 @@ bin/kafka-console-consumer.sh --topic quickstart-events --from-beginning --boots
 ```
 ***
 
+参考：
+https://blog.csdn.net/weixin_60707895/article/details/120145570
 
+https://www.cnblogs.com/x-x-736880382/p/11511221.html
+
+https://juejin.cn/post/7012815379772768264
 
 ##  1.什么是Apache Kafka?
 
