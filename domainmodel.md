@@ -1,6 +1,6 @@
 # 领域模型相关知识
 
-参考：(一篇文章讲清楚VO，BO，PO，DO，DTO的区别)[https://segmentfault.com/a/1190000021561523]
+参考：[一篇文章讲清楚VO，BO，PO，DO，DTO的区别](https://segmentfault.com/a/1190000021561523)
 
 ## DTO（Data Transfer Object）数据传输对象
 这个传输通常指的前后端之间的传输
