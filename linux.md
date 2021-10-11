@@ -1,2 +1,3 @@
 # linux 相关知识，更新中....
+参考：[想要管理Linux服务器，先搞清楚它的目录结构](https://www.toutiao.com/i7017269941455913483/?tt_from=weixin&utm_campaign=client_share&wxshare_count=1&timestamp=1633857050&app=news_article&utm_source=weixin&utm_medium=toutiao_android&use_new_style=1&req_id=202110101710490101351630711B42C3CE&share_token=3c2627bc-c1b6-4059-9422-0b1c556c6053&group_id=7017269941455913483)
 ## 发展史
