@@ -48,4 +48,4 @@ this is a blog for Personal knowledge record
 
 ## [ssr](ssr.md)
 
-## [ssr](springcloud.md)
+## [springcloud](springcloud.md)
