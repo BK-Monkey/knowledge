@@ -68,6 +68,8 @@ volatile 前后增加了写屏障，在其后面加了读屏障
 
 [juc](https://www.jianshu.com/p/1f19835e05c0)
 
+[threadLocal](https://www.jianshu.com/p/3c5d7f09dfbd)
+
 Thread的.start()与.run()的区别
 
 ## 三种阻塞队列：
