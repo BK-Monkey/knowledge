@@ -56,10 +56,16 @@ volatile 前后增加了写屏障，在其后面加了读屏障
 
 
 # 线程池
-参考: [Java-五种线程池，四种拒绝策略，三种阻塞队列](https://www.bbsmax.com/A/D854Dvap5E/)
+参考: 
+
+[Java-五种线程池，四种拒绝策略，三种阻塞队列](https://www.bbsmax.com/A/D854Dvap5E/)
+
 [JAVA_线程池—7个参数-4种拒绝策略](https://www.freesion.com/article/5194525291/)
+
 [java线程池的拒绝策略](https://www.jianshu.com/p/f0506e098c5b)
+
 [Java多线程面试题](https://www.jianshu.com/p/2078db07e0c9)
+
 Thread的.start()与.run()的区别
 
 三种阻塞队列：
