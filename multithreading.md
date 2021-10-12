@@ -66,6 +66,8 @@ volatile 前后增加了写屏障，在其后面加了读屏障
 
 [Java多线程面试题](https://www.jianshu.com/p/2078db07e0c9)
 
+[juc](https://www.jianshu.com/p/1f19835e05c0)
+
 Thread的.start()与.run()的区别
 
 三种阻塞队列：
