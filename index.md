@@ -22,7 +22,7 @@ this is a blog for Personal knowledge record
 
 ## [MQ](MQ.md)
 
-## [kubernetes](kubernetes.md)
+## [kubernetes](kubernets.md)
 
 ## [docker](docker.md)
 
