@@ -11,7 +11,8 @@
 待补充
 
 ## @SpringbootApplication 主要构成注解
-待补充....
+@confiuration
+@
 
 ## springboot 生命周期
 待补充
@@ -23,7 +24,12 @@
 统一异常处理，待补充
 
 ## springboot 中的bean 有几种方式
-单例，session 内有效，request 内有效。
+singleton 全局只有一个实例，即单例模式
+prototype 每次注入Bean都是一个新的实例
+request 每次HTTP请求都会产生新的Bean
+session 每次HTTP请求都会产生新的Bean，该Bean在仅在当前session内有效
+global session 每次HTTP请求都会产生新的Bean，该Bean在 当前global Session（基于portlet的web应用中）内有效
+
 
 ## 拦截器
 待补充

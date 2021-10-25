@@ -20,10 +20,6 @@ CPU 构造 问题 CPU  AUL  REGISTER  PC cache L1 L2 L3
 内存屏障概念，读屏障，写屏障，
 volatile 前后增加了写屏障，在其后面加了读屏障
 
-## 线程池拒绝策略
-四种，待补充
-
-
 ## 线程，纤程（用户级别的线程）
 
 ## syncronized 锁的升级过程
@@ -54,6 +50,8 @@ volatile 前后增加了写屏障，在其后面加了读屏障
 加锁： synchronized  volatile  atomic  increment  longAdder
 新类型锁：  reentrantLock  CountDoenLatch   CyclicBarrier Pahser ReadWriteLock Semaphore Exchaner 
 
+## AQS
+JUC 的基础， 基于volaitile + CAS实现，一个state 变量（使用volatile 修饰）和一个队列（双向链表），加入队列时，使用cas 算法。
 
 # 线程池
 参考: 
