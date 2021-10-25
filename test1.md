@@ -1,2 +1,2 @@
 # test1
-[avatar](grafana1.png)
+![avatar](grafana1.png)
