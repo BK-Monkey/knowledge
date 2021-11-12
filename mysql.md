@@ -1,5 +1,8 @@
 # mysql 索引优化相关知识
-参考：https://zhuanlan.zhihu.com/p/370681806
+参考：
+[MySQL数据库面试题](https://zhuanlan.zhihu.com/p/370681806)
+
+[mysql的MVCC（多版本并发控制）](https://www.cnblogs.com/myseries/p/10930910.html)
 
 数据库基础知识
 为什么要使用数据库
