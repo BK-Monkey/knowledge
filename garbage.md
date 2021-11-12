@@ -1,5 +1,11 @@
 
 # java 垃圾回收知识点(持续更新中)
+
+参考：
+
+[CMS](https://www.toutiao.com/i7026206728010121741/?tt_from=weixin&utm_campaign=client_share&wxshare_count=1&timestamp=1635994595&app=news_article&utm_source=weixin&utm_medium=toutiao_android&use_new_style=1&req_id=202111041056350101310761311BD182F1&share_token=0546fd54-a6a6-4e1f-a8cb-462596c4c1fa&group_id=7026206728010121741)
+
+
 ## 垃圾回收算法
 
 引用计数         会出现循环引用问题
