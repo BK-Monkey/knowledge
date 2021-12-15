@@ -14,6 +14,8 @@ this is a blog for Personal knowledge record
 
 ## [mysql](mysql.md)
 
+## [mybatis](mybatis.md)
+
 ## [redis](redis.md)
 
 ## [kafka](kafka.md)
